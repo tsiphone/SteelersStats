@@ -1,0 +1,289 @@
+team,team_id,category,metrics,label,value,display_value
+Pittsburgh Steelers,23,general,fumbles,Fumbles,22.0,22
+Pittsburgh Steelers,23,general,fumblesLost,Fumbles Lost,11.0,11
+Pittsburgh Steelers,23,general,fumblesForced,Forced Fumbles,22.0,22
+Pittsburgh Steelers,23,general,defensiveFumblesForced,Defensive Forced Fumbles,18.0,18
+Pittsburgh Steelers,23,general,miscFumblesForced,Miscellaneous Forced Fumbles,0.0,0
+Pittsburgh Steelers,23,general,specialTeamsFumblesForced,Special Teams Forced Fumbles,4.0,4
+Pittsburgh Steelers,23,general,fumblesRecovered,Fumbles Recovered,16.0,16
+Pittsburgh Steelers,23,general,fumblesTouchdowns,Fumbles Touchdowns,2.0,2
+Pittsburgh Steelers,23,general,gamesPlayed,Games Played,17.0,17
+Pittsburgh Steelers,23,general,offensiveTwoPtReturns,Two Point Returns,0.0,0
+Pittsburgh Steelers,23,general,offensiveFumblesTouchdowns,Fumbles Touchdowns,1.0,1
+Pittsburgh Steelers,23,general,defensiveFumblesTouchdowns,Fumbles Touchdowns,1.0,1
+Pittsburgh Steelers,23,general,totalPenalties,Total Penalties,102.0,102
+Pittsburgh Steelers,23,general,totalPenaltyYards,Total Penalty Yards,823.0,823
+Pittsburgh Steelers,23,passing,avgGain,Average Gain,526.163,526.2
+Pittsburgh Steelers,23,passing,completionPct,Completion Percentage,64.329,64.3
+Pittsburgh Steelers,23,passing,completions,Completions,321.0,321
+Pittsburgh Steelers,23,passing,ESPNQBRating,ESPN Quarterback Rating,4897.0,4897.0
+Pittsburgh Steelers,23,passing,interceptionPct,Interception Percentage,1.202,1.20
+Pittsburgh Steelers,23,passing,interceptions,Interceptions,6.0,6
+Pittsburgh Steelers,23,passing,longPassing,Longest Pass,55.0,55
+Pittsburgh Steelers,23,passing,miscYards,Miscellaneous Yards,0.0,0
+Pittsburgh Steelers,23,passing,netPassingYards,Net Passing Yards,3264.0,"3,264"
+Pittsburgh Steelers,23,passing,netPassingYardsPerGame,Net Passing Yards Per Game,192.0,192.0
+Pittsburgh Steelers,23,passing,netTotalYards,Net Total Yards,5430.0,"5,430"
+Pittsburgh Steelers,23,passing,netYardsPerGame,Net Yards Per Game,319.41177,319.4
+Pittsburgh Steelers,23,passing,passingAttempts,Passing Attempts,499.0,499
+Pittsburgh Steelers,23,passing,passingBigPlays,Passing Big Plays,55.0,55
+Pittsburgh Steelers,23,passing,passingFirstDowns,Passing 1st downs,158.0,158
+Pittsburgh Steelers,23,passing,passingFumbles,Passing Fumbles,10.0,10
+Pittsburgh Steelers,23,passing,passingFumblesLost,Passing Fumbles Lost,6.0,6
+Pittsburgh Steelers,23,passing,passingTouchdownPct,Passing Touchdown %,4.208,4.21
+Pittsburgh Steelers,23,passing,passingTouchdowns,Passing Touchdowns,21.0,21
+Pittsburgh Steelers,23,passing,passingYards,Passing Yards,3607.0,"3,607"
+Pittsburgh Steelers,23,passing,passingYardsAfterCatch,Passing Yards After Catch,1640.0,"1,640"
+Pittsburgh Steelers,23,passing,passingYardsAtCatch,Passing Yards At Catch,1967.0,"1,967"
+Pittsburgh Steelers,23,passing,passingYardsPerGame,Passing Yards Per Game,212.176,212.2
+Pittsburgh Steelers,23,passing,QBRating,Passer Rating,94.826,94.8
+Pittsburgh Steelers,23,passing,sacks,Total Sacks,49.0,49
+Pittsburgh Steelers,23,passing,sackYardsLost,Sack Yards Lost,343.0,343
+Pittsburgh Steelers,23,passing,netPassingAttempts,Net Passing Attempts,548.0,548
+Pittsburgh Steelers,23,passing,teamGamesPlayed,Team Games Played,17.0,17
+Pittsburgh Steelers,23,passing,totalOffensivePlays,Total Offensive Plays,1081.0,1081
+Pittsburgh Steelers,23,passing,totalPoints,Total Points,380.0,380
+Pittsburgh Steelers,23,passing,totalPointsPerGame,Total Points Per Game,22.353,22.4
+Pittsburgh Steelers,23,passing,totalTouchdowns,Total Touchdowns,37.0,37
+Pittsburgh Steelers,23,passing,totalYards,Total Yards,5773.0,"5,773"
+Pittsburgh Steelers,23,passing,totalYardsFromScrimmage,Total Yards From Scrimmage,5773.0,5773
+Pittsburgh Steelers,23,passing,twoPointPassConvs,Two Point Pass Conversions,2.0,2
+Pittsburgh Steelers,23,passing,twoPtPass,Two Point Pass,0.0,0
+Pittsburgh Steelers,23,passing,twoPtPassAttempts,Two Point Pass Attempts,2.0,2
+Pittsburgh Steelers,23,passing,yardsFromScrimmagePerGame,Yards From Scrimmage Per Game,339.58823,340
+Pittsburgh Steelers,23,passing,yardsPerCompletion,Yards Per Completion,11.237,11.2
+Pittsburgh Steelers,23,passing,yardsPerGame,Yards Per Game,339.588,339.6
+Pittsburgh Steelers,23,passing,yardsPerPassAttempt,Yards Per Pass Attempt,7.228,7.2
+Pittsburgh Steelers,23,passing,netYardsPerPassAttempt,Net Yards Per Pass Attempt,5.956204379562044,6.0
+Pittsburgh Steelers,23,passing,quarterbackRating,Quarterback Rating,94.826,94.8
+Pittsburgh Steelers,23,passing,offensiveSnapPct,Snap,0.0,0.0
+Pittsburgh Steelers,23,passing,targetSharePct,Target share,0.0,0.0
+Pittsburgh Steelers,23,passing,yardsPerRouteRun,Yards per route run,0.0,0.0
+Pittsburgh Steelers,23,passing,avgDepthOfTarget,Average depth of target,0.0,0.0
+Pittsburgh Steelers,23,rushing,avgGain,Average Gain,526.163,526.2
+Pittsburgh Steelers,23,rushing,ESPNRBRating,ESPN RB Rating,2491.0,2491.00
+Pittsburgh Steelers,23,rushing,longRushing,Long Rushing,64.0,64
+Pittsburgh Steelers,23,rushing,miscYards,Miscellaneous Yards,0.0,0
+Pittsburgh Steelers,23,rushing,netTotalYards,Net Total Yards,5430.0,"5,430"
+Pittsburgh Steelers,23,rushing,netYardsPerGame,Net Yards Per Game,319.41177,319.4
+Pittsburgh Steelers,23,rushing,rushingAttempts,Rushing Attempts,533.0,533
+Pittsburgh Steelers,23,rushing,rushingBigPlays,20+ Yard Rushing Plays,11.0,11
+Pittsburgh Steelers,23,rushing,rushingFirstDowns,Rushing 1st downs,122.0,122
+Pittsburgh Steelers,23,rushing,rushingFumbles,Rushing Fumbles,11.0,11
+Pittsburgh Steelers,23,rushing,rushingFumblesLost,Rushing Fumbles Lost,3.0,3
+Pittsburgh Steelers,23,rushing,rushingTouchdowns,Rushing Touchdowns,14.0,14
+Pittsburgh Steelers,23,rushing,rushingYards,Rushing Yards,2166.0,"2,166"
+Pittsburgh Steelers,23,rushing,rushingYardsPerGame,Rushing Yards Per Game,127.412,127.4
+Pittsburgh Steelers,23,rushing,stuffs,Stuffs,58.0,58
+Pittsburgh Steelers,23,rushing,stuffYardsLost,Stuff Yards Lost,-115.0,-115
+Pittsburgh Steelers,23,rushing,teamGamesPlayed,Team Games Played,17.0,17
+Pittsburgh Steelers,23,rushing,totalOffensivePlays,Total Offensive Plays,1081.0,1081
+Pittsburgh Steelers,23,rushing,totalPoints,Total Points,380.0,380
+Pittsburgh Steelers,23,rushing,totalPointsPerGame,Total Points Per Game,22.353,22.4
+Pittsburgh Steelers,23,rushing,totalTouchdowns,Total Touchdowns,37.0,37
+Pittsburgh Steelers,23,rushing,totalYards,Total Yards,5773.0,"5,773"
+Pittsburgh Steelers,23,rushing,totalYardsFromScrimmage,Total Yards From Scrimmage,5773.0,5773
+Pittsburgh Steelers,23,rushing,twoPointRushConvs,Two Point Rush Conversion,0.0,0
+Pittsburgh Steelers,23,rushing,twoPtRush,Two Point Rush,0.0,0
+Pittsburgh Steelers,23,rushing,twoPtRushAttempts,Two Point Rush Attempts,0.0,0
+Pittsburgh Steelers,23,rushing,yardsFromScrimmagePerGame,Yards From Scrimmage Per Game,339.58823,339.6
+Pittsburgh Steelers,23,rushing,yardsPerGame,Yards Per Game,339.588,339.6
+Pittsburgh Steelers,23,rushing,yardsPerRushAttempt,Yards Per Rush Attempt,4.064,4.1
+Pittsburgh Steelers,23,receiving,avgGain,Average Gain,526.163,526.2
+Pittsburgh Steelers,23,receiving,ESPNWRRating,ESPN Widereceiver Rating,5947.0,5947.00
+Pittsburgh Steelers,23,receiving,longReception,Long Reception,64.0,64
+Pittsburgh Steelers,23,receiving,miscYards,Miscellaneous Yards,0.0,0
+Pittsburgh Steelers,23,receiving,netTotalYards,Net Total Yards,5430.0,"5,430"
+Pittsburgh Steelers,23,receiving,netYardsPerGame,Net Yards Per Game,319.41177,319.4
+Pittsburgh Steelers,23,receiving,receivingBigPlays,20+ Yard Receiving Plays,55.0,55
+Pittsburgh Steelers,23,receiving,receivingFirstDowns,Receiving First Downs,158.0,158
+Pittsburgh Steelers,23,receiving,receivingFumbles,Receiving Fumbles,10.0,10
+Pittsburgh Steelers,23,receiving,receivingFumblesLost,Receiving Fumbles Lost,6.0,6
+Pittsburgh Steelers,23,receiving,receivingTargets,Receiving Targets,460.0,460
+Pittsburgh Steelers,23,receiving,receivingTouchdowns,Receiving Touchdowns,21.0,21
+Pittsburgh Steelers,23,receiving,receivingYards,Receiving Yards,3607.0,"3,607"
+Pittsburgh Steelers,23,receiving,receivingYardsAfterCatch,Receiving Yards After Catch,1648.0,1648
+Pittsburgh Steelers,23,receiving,receivingYardsAtCatch,Receiving Yards At Catch,1959.0,1959
+Pittsburgh Steelers,23,receiving,receivingYardsPerGame,Receiving Yards Per Game,212.176,212.2
+Pittsburgh Steelers,23,receiving,receptions,Receptions,321.0,321
+Pittsburgh Steelers,23,receiving,teamGamesPlayed,Team Games Played,17.0,17
+Pittsburgh Steelers,23,receiving,totalOffensivePlays,Total Offensive Plays,1081.0,1081
+Pittsburgh Steelers,23,receiving,totalPoints,Total Points,380.0,380
+Pittsburgh Steelers,23,receiving,totalPointsPerGame,Total Points Per Game,22.353,22.4
+Pittsburgh Steelers,23,receiving,totalTouchdowns,Total Touchdowns,37.0,37
+Pittsburgh Steelers,23,receiving,totalYards,Total Yards,5773.0,"5,773"
+Pittsburgh Steelers,23,receiving,totalYardsFromScrimmage,Total Yards From Scrimmage,5773.0,5773
+Pittsburgh Steelers,23,receiving,twoPointRecConvs,Two Point Receiving Conversion,461.0,461
+Pittsburgh Steelers,23,receiving,twoPtReception,Two Point Receptions,0.0,0
+Pittsburgh Steelers,23,receiving,twoPtReceptionAttempts,Two Point Reception Attempts,2.0,2
+Pittsburgh Steelers,23,receiving,yardsFromScrimmagePerGame,Yards From Scrimmage Per Game,339.58823,339.6
+Pittsburgh Steelers,23,receiving,yardsPerGame,Yards Per Game,339.588,339.6
+Pittsburgh Steelers,23,receiving,yardsPerReception,Yards Per Reception,11.237,11.2
+Pittsburgh Steelers,23,defensive,assistTackles,Assist Tackles,449.0,449
+Pittsburgh Steelers,23,defensive,avgInterceptionYards,Average Interception Yards,12.294,12.3
+Pittsburgh Steelers,23,defensive,avgSackYards,Average Sack Yards,6.875,6.9
+Pittsburgh Steelers,23,defensive,avgStuffYards,Average Stuff Yards,5.341,5.3
+Pittsburgh Steelers,23,defensive,blockedFieldGoalTouchdowns,Block Field Goal Touchdown,0.0,0
+Pittsburgh Steelers,23,defensive,blockedPuntTouchdowns,Blocked Punt Touchdowns,0.0,0
+Pittsburgh Steelers,23,defensive,defensiveTouchdowns,Defensive Touchdown,2.0,2
+Pittsburgh Steelers,23,defensive,hurries,Hurries,0.0,0
+Pittsburgh Steelers,23,defensive,kicksBlocked,Kicks Blocked,3.0,3
+Pittsburgh Steelers,23,defensive,longInterception,Long Interception,49.0,49
+Pittsburgh Steelers,23,defensive,miscTouchdowns,Miscellaneous Touchdowns,0.0,0
+Pittsburgh Steelers,23,defensive,passesBattedDown,Passes Batted Down,0.0,0
+Pittsburgh Steelers,23,defensive,passesDefended,Passes Defended,77.0,77
+Pittsburgh Steelers,23,defensive,twoPtReturns,Two Point Returns,0.0,0
+Pittsburgh Steelers,23,defensive,sacks,Sacks,40.0,40
+Pittsburgh Steelers,23,defensive,sackYards,Sack Yards,275.0,275
+Pittsburgh Steelers,23,defensive,safeties,Safeties,0.0,0
+Pittsburgh Steelers,23,defensive,soloTackles,Solo Tackles,728.0,728
+Pittsburgh Steelers,23,defensive,stuffs,Stuffs,44.0,44
+Pittsburgh Steelers,23,defensive,stuffYards,Stuff Yards,235.0,235
+Pittsburgh Steelers,23,defensive,tacklesForLoss,Tackles For Loss,84.0,84
+Pittsburgh Steelers,23,defensive,teamGamesPlayed,Team Games Played,17.0,17
+Pittsburgh Steelers,23,defensive,totalTackles,Total Tackles,1177.0,1177
+Pittsburgh Steelers,23,defensive,yardsAllowed,Yards Allowed,0.0,0
+Pittsburgh Steelers,23,defensive,pointsAllowed,Points Allowed,0.0,0
+Pittsburgh Steelers,23,defensive,onePtSafetiesMade,One Point Safeties Made,0.0,0
+Pittsburgh Steelers,23,defensive,missedFieldGoalReturnTd,Missed Field Goal Return TD,0.0,0
+Pittsburgh Steelers,23,defensive,blockedPuntEzRecTd,Blocked Punt Ez Rec TD,0.0,0
+Pittsburgh Steelers,23,defensiveInterceptions,interceptions,Interceptions,17.0,17
+Pittsburgh Steelers,23,defensiveInterceptions,interceptionTouchdowns,Interception Touchdowns,0.0,0
+Pittsburgh Steelers,23,defensiveInterceptions,interceptionYards,Interception Yards,209.0,209
+Pittsburgh Steelers,23,kicking,avgKickoffReturnYards,Average Kickoff Return Yards,23.0,23.0
+Pittsburgh Steelers,23,kicking,avgKickoffYards,Average Kickoff Yards,63.478,63.5
+Pittsburgh Steelers,23,kicking,extraPointAttempts,Extra Point Attempts,35.0,35
+Pittsburgh Steelers,23,kicking,extraPointPct,Extra Point Percentage,100.0,100.0
+Pittsburgh Steelers,23,kicking,extraPointsBlocked,Extra Point Blocked,0.0,0
+Pittsburgh Steelers,23,kicking,extraPointsBlockedPct,Extra Points Blocked Percentage,0.0,0
+Pittsburgh Steelers,23,kicking,extraPointsMade,Extra Points Made,35.0,35
+Pittsburgh Steelers,23,kicking,fairCatches,Fair Catches,0.0,0
+Pittsburgh Steelers,23,kicking,fairCatchPct,Fair Catch Percentage,0.0,0.0
+Pittsburgh Steelers,23,kicking,fieldGoalAttempts,Field Goal Attempts,44.0,44
+Pittsburgh Steelers,23,kicking,fieldGoalAttempts1_19,Field Goal Attempts 1-19,0.0,0
+Pittsburgh Steelers,23,kicking,fieldGoalAttempts20_29,Field Goal Attempts 20-29,9.0,9
+Pittsburgh Steelers,23,kicking,fieldGoalAttempts30_39,Field Goal Attempts 30-39,12.0,12
+Pittsburgh Steelers,23,kicking,fieldGoalAttempts40_49,Field Goal Attempts 40-49,8.0,8
+Pittsburgh Steelers,23,kicking,fieldGoalAttempts50_59,Field Goal Attempts 50-59,14.0,14
+Pittsburgh Steelers,23,kicking,fieldGoalAttempts60_99,Field Goal Attempts 60-99,1.0,1
+Pittsburgh Steelers,23,kicking,fieldGoalAttempts50,Field Goal Attempts 50+,15.0,15
+Pittsburgh Steelers,23,kicking,fieldGoalAttemptYards,Field Goal Attempt Yards,1800.0,"1,800"
+Pittsburgh Steelers,23,kicking,fieldGoalPct,Field Goal Percentage,93.182,93.2
+Pittsburgh Steelers,23,kicking,fieldGoalsBlocked,Field Goals Blocked,1.0,1
+Pittsburgh Steelers,23,kicking,fieldGoalsBlockedPct,Field Goals Blocked Percentage,2.273,2.3
+Pittsburgh Steelers,23,kicking,fieldGoalsMade,Field Goal Made,41.0,41
+Pittsburgh Steelers,23,kicking,fieldGoalsMade1_19,Field Goals Made 1-19,0.0,0
+Pittsburgh Steelers,23,kicking,fieldGoalsMade20_29,Field Goals Made 20-29,9.0,9
+Pittsburgh Steelers,23,kicking,fieldGoalsMade30_39,Field Goals Made 30-39,12.0,12
+Pittsburgh Steelers,23,kicking,fieldGoalsMade40_49,Field Goals Made 40-49,7.0,7
+Pittsburgh Steelers,23,kicking,fieldGoalsMade50_59,Field Goals Made 50-59,13.0,13
+Pittsburgh Steelers,23,kicking,fieldGoalsMade60_99,Field Goals Made 60-99,0.0,0
+Pittsburgh Steelers,23,kicking,fieldGoalsMade50,Field Goals Made 50+,13.0,13
+Pittsburgh Steelers,23,kicking,fieldGoalsMadeYards,Field Goals Made Yards,1638.0,"1,638"
+Pittsburgh Steelers,23,kicking,fieldGoalsMissedYards,Field Goals Missed Yards,162.0,162
+Pittsburgh Steelers,23,kicking,kickoffReturns,Kickoff Returns,25.0,25
+Pittsburgh Steelers,23,kicking,kickoffReturnTouchdowns,Kickoff Return Touchdowns,1.0,1
+Pittsburgh Steelers,23,kicking,kickoffReturnYards,Kickoff Return Yards,575.0,575
+Pittsburgh Steelers,23,kicking,kickoffs,Kickoffs,90.0,90
+Pittsburgh Steelers,23,kicking,kickoffYards,Kickoff Yards,5713.0,"5,713"
+Pittsburgh Steelers,23,kicking,longFieldGoalAttempt,Long Field Goal Attempt,62.0,62
+Pittsburgh Steelers,23,kicking,longFieldGoalMade,Long Field Goal Made,57.0,57
+Pittsburgh Steelers,23,kicking,longKickoff,Long Kickoff,68.0,68
+Pittsburgh Steelers,23,kicking,teamGamesPlayed,Team Games Played,17.0,17
+Pittsburgh Steelers,23,kicking,totalKickingPoints,Total Kicking Points,158.0,158
+Pittsburgh Steelers,23,kicking,touchbackPct,Touchback Percentage,54.444,54
+Pittsburgh Steelers,23,kicking,touchbacks,Touchbacks,49.0,49
+Pittsburgh Steelers,23,returning,defFumbleReturns,Defensive Fumbles Returns,0.0,0
+Pittsburgh Steelers,23,returning,defFumbleReturnYards,Defensive Fumble Return Yards,0.0,0
+Pittsburgh Steelers,23,returning,fumbleRecoveries,Fumble Recoveries,16.0,16
+Pittsburgh Steelers,23,returning,fumbleRecoveryYards,Fumble Recovery Yards,0.0,0
+Pittsburgh Steelers,23,returning,kickReturnFairCatches,Kick Return Fair Catches,0.0,0
+Pittsburgh Steelers,23,returning,kickReturnFairCatchPct,Kick Return Fair Catch Percentage,0.0,0.00
+Pittsburgh Steelers,23,returning,kickReturnFumbles,Kick Return Fumbles,0.0,0
+Pittsburgh Steelers,23,returning,kickReturnFumblesLost,Kick Return Fumbles Lost,0.0,0
+Pittsburgh Steelers,23,returning,kickReturns,Kick Returns,25.0,25
+Pittsburgh Steelers,23,returning,kickReturnTouchdowns,Kick Return Touchdowns,0.0,0
+Pittsburgh Steelers,23,returning,kickReturnYards,Kick Return Yards,575.0,575
+Pittsburgh Steelers,23,returning,longKickReturn,Long Kick Return,35.0,35
+Pittsburgh Steelers,23,returning,longPuntReturn,Long Punt Return,73.0,73
+Pittsburgh Steelers,23,returning,miscFumbleReturns,Miscellaneous Fumbles Returns,0.0,0
+Pittsburgh Steelers,23,returning,miscFumbleReturnYards,Miscellaneous Fumble Return Yards,0.0,0
+Pittsburgh Steelers,23,returning,oppFumbleRecoveries,Opposition Fumble Recoveries,11.0,11
+Pittsburgh Steelers,23,returning,oppFumbleRecoveryYards,Opposition Fumble Recovery Yards,0.0,0
+Pittsburgh Steelers,23,returning,oppSpecialTeamFumbleReturns,Opposition Special Team Fumble Returns,0.0,0
+Pittsburgh Steelers,23,returning,oppSpecialTeamFumbleReturnYards,Opposition Special Team Fumble Return Yards,0.0,0
+Pittsburgh Steelers,23,returning,puntReturnFairCatches,Punt Return Fair Catches,15.0,15
+Pittsburgh Steelers,23,returning,puntReturnFairCatchPct,Punt Return Fair Catch Percentage,34.88372,34.88
+Pittsburgh Steelers,23,returning,puntReturnFumbles,Punt Return Fumbles,0.0,0
+Pittsburgh Steelers,23,returning,puntReturnFumblesLost,Punt Return Fumbles Lost,0.0,0
+Pittsburgh Steelers,23,returning,puntReturns,Punt Returns,28.0,28
+Pittsburgh Steelers,23,returning,puntReturnsStartedInsideThe10,Punt Returns Started Inside the 10,0.0,0
+Pittsburgh Steelers,23,returning,puntReturnsStartedInsideThe20,Punt Returns Started Inside the 20,0.0,0
+Pittsburgh Steelers,23,returning,puntReturnTouchdowns,Punt Return Touchdowns,1.0,1
+Pittsburgh Steelers,23,returning,puntReturnYards,Punt Return Yards,289.0,289
+Pittsburgh Steelers,23,returning,specialTeamFumbleReturns,Special Team Fumbles Returns,0.0,0
+Pittsburgh Steelers,23,returning,specialTeamFumbleReturnYards,Special Team Fumble Return Yards,0.0,0
+Pittsburgh Steelers,23,returning,teamGamesPlayed,Team Games Played,17.0,17
+Pittsburgh Steelers,23,returning,yardsPerKickReturn,Yards Per Kick Return,23.0,23.0
+Pittsburgh Steelers,23,returning,yardsPerPuntReturn,Yards Per Punt Return,10.321428,10.3
+Pittsburgh Steelers,23,returning,yardsPerReturn,Yards Per Return,16.301888,16.3
+Pittsburgh Steelers,23,punting,avgPuntReturnYards,Average Punt Return Yards,7.065,7.1
+Pittsburgh Steelers,23,punting,fairCatches,Fair Catches,17.0,17
+Pittsburgh Steelers,23,punting,grossAvgPuntYards,Gross Average Punt Yards,46.485,46.5
+Pittsburgh Steelers,23,punting,longPunt,Long Punt,71.0,71
+Pittsburgh Steelers,23,punting,netAvgPuntYards,Net Average Punt Yards,43.265,43.3
+Pittsburgh Steelers,23,punting,puntReturns,Punt Returns,31.0,31
+Pittsburgh Steelers,23,punting,puntReturnYards,Punt Return Yards,219.0,219
+Pittsburgh Steelers,23,punting,punts,Punts,68.0,68
+Pittsburgh Steelers,23,punting,puntsBlocked,Punts Blocked,0.0,0
+Pittsburgh Steelers,23,punting,puntsBlockedPct,Punts Blocked Percentage,0.0,0.00
+Pittsburgh Steelers,23,punting,puntsInside10,Punts Inside 10,8.0,8
+Pittsburgh Steelers,23,punting,puntsInside10Pct,Punts Inside 10 Percentage,11.765,11.77
+Pittsburgh Steelers,23,punting,puntsInside20,Punts Inside 20,28.0,28
+Pittsburgh Steelers,23,punting,puntsInside20Pct,Punts Inside 20 Percentage,41.176,41.18
+Pittsburgh Steelers,23,punting,puntYards,Punt Yards,3161.0,"3,161"
+Pittsburgh Steelers,23,punting,teamGamesPlayed,Team Games Played,17.0,17
+Pittsburgh Steelers,23,punting,touchbackPct,Touchback Percentage,7.353,7.35
+Pittsburgh Steelers,23,punting,touchbacks,Touchbacks,5.0,5
+Pittsburgh Steelers,23,scoring,defensivePoints,Defensive Points,42.0,42
+Pittsburgh Steelers,23,scoring,fieldGoals,Field Goals,41.0,41
+Pittsburgh Steelers,23,scoring,kickExtraPoints,Kick Extra Points,35.0,35
+Pittsburgh Steelers,23,scoring,kickExtraPointsMade,Kick Extra Points Made,35.0,35
+Pittsburgh Steelers,23,scoring,miscPoints,Miscellaneous Points,0.0,0
+Pittsburgh Steelers,23,scoring,passingTouchdowns,Passing Touchdowns,21.0,21
+Pittsburgh Steelers,23,scoring,receivingTouchdowns,Receiving Touchdowns,21.0,21
+Pittsburgh Steelers,23,scoring,returnTouchdowns,Return Touchdowns,2.0,2
+Pittsburgh Steelers,23,scoring,rushingTouchdowns,Rushing Touchdowns,14.0,14
+Pittsburgh Steelers,23,scoring,totalPoints,Total Points,380.0,380
+Pittsburgh Steelers,23,scoring,totalPointsPerGame,Total Points Per Game,22.353,22.4
+Pittsburgh Steelers,23,scoring,totalScoringPoints,Total Scoring Points,374.0,374
+Pittsburgh Steelers,23,scoring,totalScoringTouchdowns,Total Scoring Touchdowns,37.0,37
+Pittsburgh Steelers,23,scoring,totalTouchdowns,Total Touchdowns,37.0,37
+Pittsburgh Steelers,23,scoring,totalTwoPointConvs,Total Two Point Conversions,0.0,0
+Pittsburgh Steelers,23,scoring,twoPointPassConvs,Two Point Pass Conversions,0.0,0
+Pittsburgh Steelers,23,scoring,twoPointRecConvs,Two Point Receiving Conversion,0.0,0
+Pittsburgh Steelers,23,scoring,twoPointRushConvs,Two Point Rush Conversion,0.0,0
+Pittsburgh Steelers,23,scoring,onePtSafetiesMade,One Point Safeties Made,0.0,0
+Pittsburgh Steelers,23,miscellaneous,firstDowns,Total 1st downs,318.0,318
+Pittsburgh Steelers,23,miscellaneous,firstDownsPassing,Passing 1st downs,158.0,158
+Pittsburgh Steelers,23,miscellaneous,firstDownsPenalty,1st downs by penalty,38.0,38
+Pittsburgh Steelers,23,miscellaneous,firstDownsPerGame,First Downs Per Game,18.706,18.71
+Pittsburgh Steelers,23,miscellaneous,firstDownsRushing,Rushing 1st downs,122.0,122
+Pittsburgh Steelers,23,miscellaneous,fourthDownAttempts,First Downs Attempts,18.0,18
+Pittsburgh Steelers,23,miscellaneous,fourthDownConvPct,4th down %,38.889,38.89
+Pittsburgh Steelers,23,miscellaneous,fourthDownConvs,Fourth Down Conversions,7.0,7
+Pittsburgh Steelers,23,miscellaneous,fumblesLost,Fumbles Lost,11.0,11
+Pittsburgh Steelers,23,miscellaneous,possessionTimeSeconds,Possession Time Seconds,31411.0,31411
+Pittsburgh Steelers,23,miscellaneous,redzoneEfficiencyPct,Red Zone Efficiency Percentage,63.52,63.52
+Pittsburgh Steelers,23,miscellaneous,redzoneFieldGoalPct,Red Zone Field Goal Percentage,35.71,35.71
+Pittsburgh Steelers,23,miscellaneous,redzoneScoringPct,Red Zone Scoring Percentage,83.93,83.93
+Pittsburgh Steelers,23,miscellaneous,redzoneTouchdownPct,Red Zone Touchdown Percentage,48.21,48.21
+Pittsburgh Steelers,23,miscellaneous,thirdDownAttempts,Third Down Attempts,228.0,228
+Pittsburgh Steelers,23,miscellaneous,thirdDownConvPct,3rd down %,39.474,39.47
+Pittsburgh Steelers,23,miscellaneous,thirdDownConvs,Third Down Conversions,90.0,90
+Pittsburgh Steelers,23,miscellaneous,totalGiveaways,Total Giveaways,17.0,17
+Pittsburgh Steelers,23,miscellaneous,totalPenalties,Total Penalties,102.0,102
+Pittsburgh Steelers,23,miscellaneous,totalPenaltyYards,Total Penalty Yards,823.0,823
+Pittsburgh Steelers,23,miscellaneous,totalTakeaways,Total Takeaways,33.0,33
+Pittsburgh Steelers,23,miscellaneous,totalDrives,Total Drives,0.0,0
+Pittsburgh Steelers,23,miscellaneous,turnOverDifferential,Turnover Ratio,16.0,16
